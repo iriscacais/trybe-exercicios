@@ -1,4 +1,4 @@
-## Seção Git, GitHub e Internet
+## Seção Git, GitHub 
 
 Esse bloco pertence ao módulo de fundamentos do curso da Trybe. 
 
