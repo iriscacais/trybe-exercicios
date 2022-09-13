@@ -3,7 +3,7 @@
 echo 'Crie um diretório chamado unix_tests'
 mkdir unix_tests
 echo 'Navegue até o novo diretório'
-cd unix-tests
+cd unix_tests
 
 # Exercício 2
 
