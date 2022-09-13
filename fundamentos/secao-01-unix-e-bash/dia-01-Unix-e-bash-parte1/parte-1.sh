@@ -72,6 +72,15 @@ Para os exercícios 14 e 15, crie, de forma manual na parte gráfica do seu sist
 operacional (através do mouse), um arquivo de texto com o conteúdo abaixo, chamado 
 skills.txt
 
+Internet
+Unix
+Bash
+HTML
+CSS
+JavaScript
+React
+SQL
+
 #Exercício 14
 
 echo 'Mostre na tela as 5 primeiras skills do arquivo skills.txt'
