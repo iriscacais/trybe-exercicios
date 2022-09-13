@@ -1,7 +1,7 @@
 # Exercício 1
 
-echo 'Crie um diretório chamado unix-tests'
-mkdir unix-tests
+echo 'Crie um diretório chamado unix_tests'
+mkdir unix_tests
 echo 'Navegue até o novo diretório'
 cd unix-tests
 
