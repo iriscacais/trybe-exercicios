@@ -1,9 +1,11 @@
-## Seção 3 HTML & CSS 
+# Fundamentos do Desenvolvimento Web
 
-Esse bloco pertence ao módulo de fundamentos do curso da Trybe. 
+Nesse módulo: 
 
-Nesse bloco aprendi a usar as principais tags do HTML para criar a estrutura das páginas web, usar o CSS para estilizar as tags, usando diferentes formas de selecionar os elementos HTML, alterar o posicionamento dos elementos na página e como algumas propriedades específicas alteram as dimensões dos elementos e o significado que cada elemento HTML carrega e sobre como isso impacta a acessibilidade da página e a interpretação do conteúdo por indexadores de pesquisa, como o Google.
+'Unix & Bash': utilizar comandos no terminal para criar arquivos e diretórios, comandos de input e output, alterar permissões e acompanhar processos.
 
-Tendo isso em mente aqui você encontrará os exercícios que desenvolvi para fixar os conhecimentos que adquiri ao longo desse bloco.
+'Git e GitHub': instalar e configurar o Git no computador, salvar meus projetos em um repositório Git local, controlar as alterações e versões dos meus arquivos. Com o GitHub aprendi a copiar um repositório existente para o meu computador, abrir Pull requests, subir o repositório local para o GitHub, enviar projetos para o repositório remoto. E dessa forma trabalhar em um mesmo projeto, com mais de uma pessoa.
 
-PROJETO
+'Internet': explicar de forma simples como a internet funciona, entender o modelo cliente & servidor e identificar suas partes, compreender como funcionam os protocolos HTTP e HTTPS, além de identificar os tipos de requisições.
+
+Tendo isso em mente, esta pasta contém todas as atividades de aprendizagem que desenvolvi ao longo do módulo de Fundamentos do Desenvolvimento Web do curso da Trybe.
