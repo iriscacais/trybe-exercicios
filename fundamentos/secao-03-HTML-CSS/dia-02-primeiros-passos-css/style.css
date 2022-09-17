@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-  <head>
-    <meta charset="UTF-8">
-    <title>HTML</title>
-    /*
-    <style>
+<style>
 body {
 
     font-family: 'Montserrat', sans-serif;
@@ -38,16 +32,4 @@ font-weight:600;
     .fundo{
     background-color: antiquewhite;
     }
-    </style> /
-  </head>
-  <body>
-    <h1 class="hero-title">Exercícios 3.2</h1> 
-    <p class="fundo"> Qual é a sua cor favorita?</p>
-
-    <ul class="fundo">
-      <li class="trybe">Amarelo</li>
-      <li class="vermelho">Vermelho</li>
-      <li class="marrom">Marrom</li>
-    </ul>
-  </body>
-</html>
+    </style>
