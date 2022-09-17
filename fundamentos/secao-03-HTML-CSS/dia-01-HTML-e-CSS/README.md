@@ -1,4 +1,4 @@
-#Exercícios para fixar 
+# Exercício para fixar
 
 1 - Crie uma lista das pessoas que você já fez amizade na Trybe.
 2 - Adicione uma imagem que venha de uma URL externa.
