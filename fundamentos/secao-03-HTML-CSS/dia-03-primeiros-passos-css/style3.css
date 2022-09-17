@@ -1,0 +1,20 @@
+
+p, h1,li{
+    text-align: center;
+}
+ul,ol {
+    list-style: none;
+    text-align: center;
+}
+
+li:hover{
+background-color: chocolate;
+width: 100px;
+}
+
+li:active{
+    color: beige;
+}
+
+
+

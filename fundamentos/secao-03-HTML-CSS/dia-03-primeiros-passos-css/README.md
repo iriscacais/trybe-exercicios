@@ -117,7 +117,7 @@ COPIE EM INDEX3.HTML
   <head>
     <meta charset="UTF-8">
     <title>Agrupando Seletores</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style3.css">
   </head>
   <body>
     <h1>Lista dos Melhores Sites que já vi</h1>
