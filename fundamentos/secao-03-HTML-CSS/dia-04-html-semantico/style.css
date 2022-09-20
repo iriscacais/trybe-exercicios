@@ -83,3 +83,31 @@ font-size: 20px;
         width: 50%;
         margin-top: 1%;
     }
+    .lateral{
+        bottom: 20%;
+        margin-left: 80%;
+        margin-right: 100%;
+        position: absolute;
+        bottom: 50%;
+    }
+    .titulo-video{
+margin-left: 73%;
+position: absolute;
+top: 45%;
+right: 115px;
+font-size: 20px;
+color: darkolivegreen;
+    }
+.explosao{
+position: absolute;
+right: 14%;
+bottom: 40%;
+}
+.video{
+    width: 315px;
+     margin-left: 71%;
+     position: absolute;
+     bottom: 17%;
+     
+    }
+  
