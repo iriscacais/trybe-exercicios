@@ -19,7 +19,6 @@
 text-align: center;
 }
     
-
 .menu li{
     display: inline-block;
    background-color: rgb(255, 255, 255); 
@@ -27,3 +26,24 @@ text-align: center;
    padding: 20px 30px 20px 30px;
 }
 
+.gerais, .subtitulo{
+    padding: 10px 10px 10px 10px;
+    width: 30%;
+    margin-left: 5%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.titulo-tabela{
+    margin-left: 5%;
+    margin-top:10% ;
+
+}
+table, td {
+    border: 1px solid black;
+    text-align: center;
+  margin-left: 5%;
+  margin-top: 1%;
+    
+    }
+  td.cientific-name{
+        font-style: italic;
+    }
