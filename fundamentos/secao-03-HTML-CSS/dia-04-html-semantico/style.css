@@ -11,7 +11,6 @@
     font-family: fantasy;
     font-weight: bold   
     color:rgb(59, 120, 133)
-    
 }
 
 .principal  {
@@ -35,7 +34,7 @@ font-weight: bold;
     color: forestgreen;
 }
 .paragrafo-geral{ 
-    top: 30px;
+    top: 25px;
     text-align: justify;
     width: 85%;
     margin-left: 5%
@@ -72,17 +71,8 @@ table, td {
         margin-bottom: 3%;
         border: 2px solid mediumseagreen;
     }
-    .facts{
-text-align: justify;
-margin-left: 5%;
-font-size: 20px;
-    }
-    .interessantes{
-        text-align: justify;
-        margin-left: 5%;
-        width: 50%;
-        margin-top: 1%;
-    }
+  
+
     .lateral{
         bottom: 20%;
         margin-left: 80%;
@@ -90,7 +80,7 @@ font-size: 20px;
         position: absolute;
         bottom: 50%;
     }
-    .titulo-video{
+ .titulo-video{
 margin-left: 73%;
 position: absolute;
 top: 45%;
@@ -110,4 +100,38 @@ bottom: 40%;
      bottom: 17%;
      
     }
-  
+
+.artigo-pesadelo{
+    text-align: justify;
+   margin: 5%;
+}
+
+.titulo-pesadelo{
+    font-size: 20px;
+    margin-left: 5%;
+    margin-right: auto;
+    width: fit-content;
+position: absolute;
+    top: 107%;
+}
+
+.titulo-garras{
+    font-size: 20px;
+    width: fit-content;
+    position: absolute;
+    right: 45%;
+  top: 107%;
+}
+
+.titulo-cores{
+ font-size: 20px;
+    width: fit-content;
+    position: absolute;
+    right: 15%;
+  top: 107%;
+}
+
+.artigos{
+    background-color: bisque;
+    margin-top:2% ;
+}
