@@ -1,0 +1,23 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+.header{
+    margin: 0cm;
+    background-color: rgb(0, 82, 165);
+    padding: 50px 50px 50px 50px;
+    font-family: fantasy;
+}
+
+.title{
+    font-size: 20px;
+    font-weight: bold;
+    color: bisque;
+
+}
+
+.menu li{
+display: inline-block;
+}
