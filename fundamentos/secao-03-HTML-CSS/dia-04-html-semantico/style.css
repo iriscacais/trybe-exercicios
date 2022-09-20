@@ -3,7 +3,6 @@
     padding: 0%;
 }
 
-
 .header{
     margin-bottom: 5px;
     background-image: url("imagens/arco-iris.jpeg");
@@ -17,6 +16,8 @@
 
 .principal  {
 text-align: center;
+font-size: 30px;
+font-weight: bold;
 }
     
 .menu li{
@@ -28,14 +29,32 @@ text-align: center;
 
 .gerais, .subtitulo{
     padding: 10px 10px 10px 10px;
-    width: 30%;
+    width: 50%;
     margin-left: 5%;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    color: forestgreen;
 }
-.titulo-tabela{
-    margin-left: 5%;
-    margin-top:10% ;
+.paragrafo-geral{ 
+    top: 30px;
+    text-align: justify;
+    width: 85%;
+    margin-left: 5%
+    
+}
+.paragrafo{
+    bottom: 20%;
+  margin-left: 30%;
+  margin-right: 28%;
+  position: absolute;
+  bottom: 34%;
+  
+}
 
+.titulo-tabela{
+    bottom: 20%;
+    margin-left: 5%;
+    margin-top:2%
+    text-align: justify;
 }
 table, td {
     border: 1px solid black;
@@ -46,4 +65,21 @@ table, td {
     }
   td.cientific-name{
         font-style: italic;
+    }
+
+    .foto{
+        margin-left:5% ;
+        margin-bottom: 3%;
+        border: 2px solid mediumseagreen;
+    }
+    .facts{
+text-align: justify;
+margin-left: 5%;
+font-size: 20px;
+    }
+    .interessantes{
+        text-align: justify;
+        margin-left: 5%;
+        width: 50%;
+        margin-top: 1%;
     }
