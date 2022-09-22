@@ -1,8 +1,14 @@
-let weekDay = 'sexta-feira';
+let weekDay = 'terça';
 
-if (weekDay = 'segunda-feira' | 'terça-feira' | 'quarta-feira' |  'quinta-feira' |'sexta-feira') {
-    console.log ('Oba, mais um dia de aprendizado na Trybe')
+if (weekDay = 'terça' | 'quarta') {
+    console.log('Dia de aprendizado na Trybe');
 }
-else if (weekDay = 'sabado' |'domingo'){ 
-    console.log ('FINALMENTE, descanso merecido UwU')
+else if (weekDay= 'segunda'|'quinta') {
+    console.log('Dia de aprendizado na Trybe');
+}
+else if (weekDay='sexta'){
+    console.log('Dia de aprendizado na Trybe');
+}
+else {
+    console.log('Finalmente! Meu dia de descanso')
 }
