@@ -8,3 +8,5 @@ if (num1 > num2){
 }else {
     console.log('Número 2 é maior');
 }
+
+//Utilize if/else para fazer um programa que retorne o maior de dois números. Defina, no começo do programa, duas constantes com os valores que serão comparados.

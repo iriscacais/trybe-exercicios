@@ -11,3 +11,5 @@ if (num1>num2 && num1>num3){
 }else {
     console.log ('Os números são iguais');
 }
+
+//Utilize if/else para fazer um programa que retorne o maior de três números. Defina, no começo do programa, três constantes com os valores que serão comparados.
