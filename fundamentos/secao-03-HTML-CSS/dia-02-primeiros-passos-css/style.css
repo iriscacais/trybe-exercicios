@@ -1,17 +1,17 @@
-<style>
-body {
+
+    body {
 
     font-family: 'Montserrat', sans-serif;
     font-size: 16px;
 }
-p, li{
+p, li {
     font-size: 16px;
     color: black;
     line-height: 30px;
 
 }
 
-.hero-title{=
+.hero-title {
     font-size: 65px;
     color: orange;
     font-family: sans-serif;
@@ -20,16 +20,15 @@ text-decoration: underline;
 font-weight:600;
 }
 
-.trybe{
+.trybe {
     background-color: yellow;
 }
 .vermelho {
     background-color: red;
 }
-.marrom{
+.marrom {
     background-color: brown;
 }
-    .fundo{
+    .fundo {
     background-color: antiquewhite;
-    }
-    </style>
+    } 

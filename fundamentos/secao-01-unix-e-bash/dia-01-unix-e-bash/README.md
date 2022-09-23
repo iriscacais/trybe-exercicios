@@ -1,4 +1,22 @@
 # Dia 01 Unix e Bah parte 1 do módulo de Fundamentos
+## Conteúdos do dia 01
+Utilizar o bash
+
+Entender como a internet funciona, seus principais conceitos e terminologias.
+
+Utilizar de forma confortável o Git e o Github.
+
+Criar documentos HTML estilizados com CSS.
+
+Utilizar o JavaScript para adicionar comportamento às páginas web.
+
+Utilizar recursos de HTML e CSS Avançado.
+
+Trabalhar com JavaScript ES6.
+
+Criar códigos assíncronos em JavaScript.
+
+Escrever testes unitários.
 
 ## Exercícios 
 ### Parte I - Criação de arquivos e diretórios
@@ -47,7 +65,6 @@ SQL
 15. Mostre na tela as 4 últimas skills do arquivo skills.txt.
 
 16. Apague todos os arquivos que terminem em .txt.
-
 
 ### Parte II - Manipulação & Busca
 

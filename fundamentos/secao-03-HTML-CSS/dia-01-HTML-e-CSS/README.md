@@ -1,3 +1,9 @@
+## Conteúdo do dia 01 da seção 3 - Html e Css
+
+Estruturar páginas web com HTML utilizando as tags html, head e body;
+Utilizar o HTML para estruturar textos e títulos;
+Utilizar o HTML para criar listas, links e adicionar imagens.
+
 # Exercício para fixar
 
 1 - Crie uma lista das pessoas que você já fez amizade na Trybe.
