@@ -23,11 +23,15 @@ for (let index =0; index < numbers.length; index +=1){
     //console.log(numbers[index])
 }
 
+////////////////////////////////////////
+
 let soma=0;
 for (let index=0; index<numbers.length;index ++){
 soma += numbers[index];
 //console.log (soma)
 }
+
+///////////////////////////////////////
 
 let media = soma/numbers.length;
 //console.log(media)
@@ -37,6 +41,8 @@ if (media>20){
    //console.log ('Valor menor que 20')
 }
 
+////////////////////////////
+
 let maiorNumero = numbers[0];
 
 for (let index = 1; index <= numbers.length; index += 1){
@@ -45,6 +51,8 @@ for (let index = 1; index <= numbers.length; index += 1){
     }
 }
 //console.log(maiorNumero)
+
+/////////////////////////////
 
 let impares=[];
 for (let index =0; index <numbers.length; index +=1){
@@ -59,6 +67,7 @@ if (impares === 0 ){
     //console.log (impares.length)
 }
 
+//////////////////////////////////////////////////
 
    let menorNumero=numbers[0];
 for (let index = 1; index <= numbers.length; index += 1){
@@ -66,4 +75,18 @@ for (let index = 1; index <= numbers.length; index += 1){
         menorNumero = numbers[index];
        
 }}
-console.log(menorNumero); 
+//console.log(menorNumero); 
+
+////////////////////////////////
+
+let osVinteECinco = [];
+for (let index = 1; index <=25; index += 1 ){
+    osVinteECinco.push ([index]);
+}
+//console.log (osVinteECinco)
+
+let divisão =[];
+for (let index =0; index < osVinteECinco.length; index +=1){
+   divisão.push( osVinteECinco[index]/2)
+}
+console.log (divisão)
