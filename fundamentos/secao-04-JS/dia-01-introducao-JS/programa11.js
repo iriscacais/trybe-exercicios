@@ -17,13 +17,6 @@ if (nota > 100 || nota < 0){
     console.log('Nota F')
 }
 
-
-
-
-
-
-
-
 //Utilize if/else para fazer um programa que converta uma nota dada em porcentagem (de 0 a 100) em conceitos de A a F. Siga essas regras:
 //Porcentagem >= 90 -> A
 

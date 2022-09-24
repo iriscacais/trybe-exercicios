@@ -8,11 +8,16 @@
 //valorCustoTotal = valorCusto + impostoSobreOCusto;
 //lucro = valorVenda - valorCustoTotal (lucro de um produto);
 
-let custo = 100;
-let valor = 150;
-let valorCustoTotal = (custo*20)/100;
-let lucro 
+let custo = 10;
+let valorVenda = 20;
+let valorCustoTotal = (custo * (20/100));
+let lucro = valorVenda - valorCustoTotal;
 
-if (custo<=0 || valor<=0){
-    console.log ('Valor invádio')
+if (custo <=0 || valorVenda <= 0){
+    console.log ('Valor inválido')
+}else{
+    console.log (lucro *1000)
 }
+
+console.log (valorCustoTotal)
+

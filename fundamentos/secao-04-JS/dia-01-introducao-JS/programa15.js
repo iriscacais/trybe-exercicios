@@ -43,3 +43,4 @@
 //Resultado: R$ 2.612,55.
 
 //De olho na dica 👀: que tal identificar as alíquotas com variáveis de nomes explicativos?
+
