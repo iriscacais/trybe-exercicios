@@ -17,7 +17,7 @@
 
 //Utilizando o array que acabou de criar, imprima o resultado da divisão de cada um dos elementos por 2.
 
-let numbers = [6, 8, 2, 12, 70, 8, 100, 2, 34, 28];
+let numbers = [6, 5, 3, 12, 77, 8, 100, 2, 34, 28];
 
 for (let index =0; index < numbers.length; index +=1){
     //console.log(numbers[index])
@@ -46,22 +46,24 @@ for (let index = 1; index <= numbers.length; index += 1){
 }
 //console.log(maiorNumero)
 
-
 let impares=[];
-let pares =[]
 for (let index =0; index <numbers.length; index +=1){
 
-    if (numbers[index]%2 !== 0 ){
-        impares.push(numbers[index]);
-    }else if ( numbers[index]%2 == 0){
-    pares.push(numbers[index]); 
+    if ( numbers[index]%2 !== 0 ){
+        impares += 1;
     }
-}
-for (let index=0;index<impares.length;index+=1){
-    if (impares.length<=0){
-        console.log('Não há números ímpares')
-    }else{
-        console.log (impares.length)
     }
+if (impares === 0 ){
+   //console.log ('nao ha valores impares')
+}else{
+    //console.log (impares.length)
 }
-   
+
+
+   let menorNumero=numbers[0];
+for (let index = 1; index <= numbers.length; index += 1){
+    if (numbers[index] < menorNumero){
+        menorNumero = numbers[index];
+       
+}}
+console.log(menorNumero); 
