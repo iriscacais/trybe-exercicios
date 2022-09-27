@@ -45,35 +45,49 @@ function subtração(a, b) {
    }
    //console.log(modulo(a,b))
  
-   let primeiroNum = 10;
-   let segundoNum =20
+   
    function maior(primeiroNum,segundoNum){
     if (primeiroNum > segundoNum){
-       return primeiroNum + 'e maior que' + segundoNum;
+       return primeiroNum + ' é maior que ' + segundoNum;
     }else{
-       return segundoNum + 'e maior que' + primeiroNum;    
+       return segundoNum + ' é maior que ' + primeiroNum;    
    }}
+//console.log (maior(10,5));
+
 /////
-   let numeroUm= 28;
-   let numeroDois = 30;
-   let numeroTres = 4;
-
-   function compar (numeroUm, numeroDois, numeroTres){
+  
+   function compara (numeroUm, numeroDois, numeroTres){
     if (numeroUm > numeroDois || numeroUm > numeroTres){
-        return numeroUm + 'é o mairo número';
+        return numeroUm + ' é o mairo número ';
     } else if ( numeroDois>numeroUm || numeroDois> numeroTres){
-        return numeroDois + 'é o maior número ';
+        return numeroDois + ' é o maior número ';
     }else{
-        numeroTres + 'é o mairo número';
+        numeroTres + ' é o mairo número ';
     }
    }
-
+//console.log (compara(10,5,8));
    ////
-   let valor = 10;
+ 
    function positivo (valor){
-    if (valor >= 0){
+    if (valor > 0){
         return 'positive';
-    }else {
+    }else if ( valor < 0){
         return 'negative';
+    }else {
+        return 'valor é zero'
     }
    }
+   //console.log (positivo(0));
+
+/////
+  function triangulo ( angulo1, angulo2, angulo3){
+    if (angulo1 ===0 || angulo2 ===0 || angulo3 ===0){
+        return 'valores inválidos'
+    } else if (angulo1 + angulo2 + angulo3 === 180){
+        return 'verdadeiro';
+    }else{
+        return 'nao é triangulo válido'
+    }
+   }
+   
+   console.log (triangulo (90,60,0))
