@@ -54,10 +54,9 @@ function menorValor(numeros){
       //  Valor esperado no retorno da função: Fernanda.
 
       function maiorNome (nomes){
-        let nomeCaracteres =[];
-        for(let index =0; index< maiorNome.length; index+=1){
-nomeCaracteres = index.split;
-        }
+        let nomeCaracteres =0;
+        for(let key in maiorNome){
+
     return nomeCaracteres
     }
-      console.log(maiorNome(['José', 'Lucas', 'Nádia', 'Fernanda', 'Cairo', 'Joana']))
+      //console.log(maiorNome(['José', 'Lucas', 'Nádia', 'Fernanda', 'Cairo', 'Joana']))

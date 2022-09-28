@@ -89,5 +89,4 @@ function subtração(a, b) {
         return 'nao é triangulo válido'
     }
    }
-   
-   console.log (triangulo (90,60,0))
+   //console.log (triangulo (90,60,0))
