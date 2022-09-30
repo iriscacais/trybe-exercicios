@@ -53,14 +53,29 @@ function corrigeTexto (titulo) {
 }
 corrigeTexto('h1');
 
-
 function changeBackgroundColor (){
     let quadradoAmarelo =document.getElementsByClassName('main-content')[0];
     quadradoAmarelo.style.background= "rgb(76,164,109)";
 }      
 changeBackgroundColor(); 
 
+function BackgroundColor (){
+    let quadradoVermelho =document.getElementsByClassName('center-content')[0];
+    quadradoVermelho.style.background= "white";
+}      
+BackgroundColor(); 
 
+function maiuscula () {
+    let letrasMaiusculas = document.getElementsByTagName('p')[0];
+    letrasMaiusculas.style.textTransform ='uppercase';
+}
+maiuscula();
+
+function exibeP (){
+console.log (document.getElementsByTagName('p').innerHTML);
+
+}
+exibeP()
 
 </script>
   </body>
