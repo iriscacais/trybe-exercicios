@@ -1,0 +1,22 @@
+<main id="paiDoPai">
+    <section id="pai">
+      <section id="primeiroFilho"></section>
+      <section id="elementoOndeVoceEsta">
+        <section id="primeiroFilhoDoFilho"></section>
+        <section id="segundoEUltimoFilhoDoFilho"></section>
+      </section>
+      Atenção!
+      <section id="terceiroFilho"></section>
+      <section id="quartoEUltimoFilho"></section>
+    </section>
+  </main>
+  <script>
+
+let exercicio1 = document.getElementById('elementoOndeVoceEsta');
+
+let exercicio2 = elementoOndeVoceEsta.parentElement;
+exercicio2.style.color = 'blue';
+
+let exercicio3 = exercicio1.firstElementChild;
+exercicio3.innerText = 'primeiro filho do filho';
+  </script>
