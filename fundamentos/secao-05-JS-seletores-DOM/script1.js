@@ -39,7 +39,4 @@ createDays();
 function criaBotao(Feriado) {
     let botao = document.getElementsByClassName('buttons-container');
     let element = documento.createElement ('div');
-element.setAttribute ('btn-holiday');
-botao.appendChild(element)
 }
-criaBotao();
