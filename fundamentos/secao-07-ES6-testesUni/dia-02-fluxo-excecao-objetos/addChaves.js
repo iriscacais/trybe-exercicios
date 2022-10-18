@@ -35,8 +35,6 @@ const customer = {
 
 // Essas novas propriedades serão adicionadas de acordo com o valor de algumas variáveis.
 
-
-
   let newKey = 'lastName';
   const lastName = 'Ferreira';
   customer[newKey] = lastName;
