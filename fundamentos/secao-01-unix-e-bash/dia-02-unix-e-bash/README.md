@@ -1,3 +1,15 @@
+# Dia 02 Unix e Bah parte2 do módulo de Fundamentos
+## Conteúdos do dia 02
+
+Utilizar o comando find;
+
+Utilizar os operadores > (maior), >> (maior maior) e | (pipe) no terminal;
+
+Alterar as permissões de arquivos e diretórios;
+
+Verificar o status e enviar sinais a processos UNIX;
+
+## Exercícios 
 # Parte I - Comandos de Input e Output
 
 1. Navegue até a pasta unix_tests;

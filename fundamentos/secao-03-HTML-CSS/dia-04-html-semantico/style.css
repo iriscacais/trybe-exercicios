@@ -1,0 +1,137 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.header{
+    margin-bottom: 5px;
+    background-image: url("imagens/arco-iris.jpeg");
+    background-size: cover;
+    padding: 50px 50px 50px 50px;
+    font-family: fantasy;
+    font-weight: bold   
+    color:rgb(59, 120, 133)
+}
+
+.principal  {
+text-align: center;
+font-size: 30px;
+font-weight: bold;
+}
+    
+.menu li{
+    display: inline-block;
+   background-color: rgb(255, 255, 255); 
+   margin-top: 10px;
+   padding: 20px 30px 20px 30px;
+}
+
+.gerais, .subtitulo{
+    padding: 10px 10px 10px 10px;
+    width: 50%;
+    margin-left: 5%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: forestgreen;
+}
+.paragrafo-geral{ 
+    top: 25px;
+    text-align: justify;
+    width: 85%;
+    margin-left: 5%
+    
+}
+.paragrafo{
+    bottom: 20%;
+  margin-left: 30%;
+  margin-right: 28%;
+  position: absolute;
+  bottom: 34%;
+  
+}
+
+.titulo-tabela{
+    bottom: 20%;
+    margin-left: 5%;
+    margin-top:2%
+    text-align: justify;
+}
+table, td {
+    border: 1px solid black;
+    text-align: center;
+  margin-left: 5%;
+  margin-top: 1%;
+    
+    }
+  td.cientific-name{
+        font-style: italic;
+    }
+
+    .foto{
+        margin-left:5% ;
+        margin-bottom: 3%;
+        border: 2px solid mediumseagreen;
+    }
+  
+
+    .lateral{
+        bottom: 20%;
+        margin-left: 80%;
+        margin-right: 100%;
+        position: absolute;
+        bottom: 50%;
+    }
+ .titulo-video{
+margin-left: 73%;
+position: absolute;
+top: 45%;
+right: 115px;
+font-size: 20px;
+color: darkolivegreen;
+    }
+.explosao{
+position: absolute;
+right: 14%;
+bottom: 40%;
+}
+.video{
+    width: 315px;
+     margin-left: 71%;
+     position: absolute;
+     bottom: 17%;
+     
+    }
+
+.artigo-pesadelo{
+    text-align: justify;
+   margin: 5%;
+}
+
+.titulo-pesadelo{
+    font-size: 20px;
+    margin-left: 5%;
+    margin-right: auto;
+    width: fit-content;
+position: absolute;
+    top: 107%;
+}
+
+.titulo-garras{
+    font-size: 20px;
+    width: fit-content;
+    position: absolute;
+    right: 45%;
+  top: 107%;
+}
+
+.titulo-cores{
+ font-size: 20px;
+    width: fit-content;
+    position: absolute;
+    right: 15%;
+  top: 107%;
+}
+
+.artigos{
+    background-color: bisque;
+    margin-top:2% ;
+}
