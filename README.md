@@ -1,30 +1,11 @@
-# trybe-exercicios
+# Fundamentos do Desenvolvimento Web
 
-# Trybe
+Nesse módulo: 
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por _Iris Cacais https://www.linkedin.com/in/iris-cacais-kacic-907b3115b/ _ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
+'Unix & Bash': utilizar comandos no terminal para criar arquivos e diretórios, comandos de input e output, alterar permissões e acompanhar processos.
 
-_"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
+'Git e GitHub': instalar e configurar o Git no computador, salvar meus projetos em um repositório Git local, controlar as alterações e versões dos meus arquivos. Com o GitHub aprendi a copiar um repositório existente para o meu computador, abrir Pull requests, subir o repositório local para o GitHub, enviar projetos para o repositório remoto. E dessa forma trabalhar em um mesmo projeto, com mais de uma pessoa.
 
-O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
+'Internet': explicar de forma simples como a internet funciona, entender o modelo cliente & servidor e identificar suas partes, compreender como funcionam os protocolos HTTP e HTTPS, além de identificar os tipos de requisições.
 
-## Fundamentos do Desenvolvimento Web :white_check_mark:
-
-##### Bloco 1: Introdução - Unix & Shell
-
-- [ ] 1-3: _Unix & Shell- Part 1_
-- [ ] 1-4: _Unix & Shell- Part 2_
-
-##### Bloco 2: Git & GitHub
-
-- [ ] 2-1: _O que é e para que serve?_
-- [ ] 2-2: _Entendendo os comandos_
-- [ ] 2-3: _Internet - Entendendo como ela funciona_
-
-#### Bloco 3: Introdução à HTML e CSS 
-
-- [ ] 3-1: _HTML & CSS - Estruturas de páginas_
-- [ ] 3-2: _HTML & CSS - Primeiros passos em CSS_
-- [ ] 3-3: _HTML & CSS - Seletores e posicionamento_
-- [ ] 3-4: _HTML Semântico_
-- [ ] 3-5: _Projeto_
+Tendo isso em mente, esta pasta contém todas as atividades de aprendizagem que desenvolvi ao longo do módulo de Fundamentos do Desenvolvimento Web do curso da Trybe.
