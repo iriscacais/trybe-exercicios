@@ -59,10 +59,15 @@ const danoManaMago = (mage) => {
     const minDmg = mage.intelligence;
     const maxDmg = minDmg * 2;
     const mana = mage.mana;
+    let manaGasta = 0;
+    if( mana < 15){
+    
+        return ' Não possui mana suficiente!'
+    }
     const objeto = {
         dano: mage.damage, 
         manaGasta: mana
     }
     return objeto;
 }
-console.log(danoManaMago(mage))
+console.log(danoManaMago(mage)) ///// nao terminado

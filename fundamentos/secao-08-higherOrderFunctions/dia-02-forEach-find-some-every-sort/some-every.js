@@ -18,3 +18,5 @@ const grades = {
   );
   
   console.log(verifyGrades(grades));
+
+  //Observe que foi usado Object.values junto com o every. Como o Object.values retorna um array apenas com os valores do objeto, o every percorrerá esse array retornado. 

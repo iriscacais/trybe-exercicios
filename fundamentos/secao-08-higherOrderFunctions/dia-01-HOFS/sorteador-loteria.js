@@ -6,8 +6,6 @@ const numeroAleatorio = Math.floor(Math.random()* (5 - 1 + 1) + 1) //colocando +
 return callback(numeroApostado, numeroAleatorio) ? 'Parabéns você ganhou' : 'Tente novamente'
 }
 
-
 const verificaIgualdade = (numeroApostado, numeroAleatorio) => numeroAleatorio === numeroApostado;
-
 
 console.log(numberGenerator(3,verificaIgualdade))

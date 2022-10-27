@@ -60,3 +60,4 @@ function menorValor(numeros){
     return nomeCaracteres
     }
       //console.log(maiorNome(['José', 'Lucas', 'Nádia', 'Fernanda', 'Cairo', 'Joana']))
+      }

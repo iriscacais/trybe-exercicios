@@ -28,7 +28,7 @@ const comparaRespostas = (rightAnswer, studentAnswer) => {
 
 const totalPontos = (rightAnswer, studentAnswer, action) => {
 let pontos = 0; 
-for(let index = 0; index < rightAnswer.length; index += 1){
+for(let index = 0; index < rightAnswer.length; index += 1) {
 const compara = action(rightAnswer[index], studentAnswer[index])
 pontos += compara
 }
