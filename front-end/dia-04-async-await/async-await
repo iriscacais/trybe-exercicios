@@ -1,0 +1,27 @@
+// const cep = '30130-010'; 
+// fetch(`https://viacep.com.br/ws/${cep}/json/`)
+//   .then(response => response.json())
+//   .then(data => console.log(data));
+
+  // podesemos utilizar uma sintaxe mais moderna para estruturar esse código
+
+//   const cep = '30130-010'; 
+// const response = await fetch(`https://viacep.com.br/ws/${cep}/json/`);
+// const data = await response.json();
+// console.log(data);
+
+const a = funcaoQueRetornaPromise();
+const b = await funcaoQueRetornaPromise();
+
+console.log(a) // Aqui o console vai imprimir a Promise em si. 
+console.log(b) // Aqui o console vai imprimir o resultado da Promise
+
+// para tratar os erros dentro de uma Promise usaremos o operador .cath(). Utilizando blocos try/catch
+const cep = '30130-010'; 
+try {
+  const response = await fetch(`https://viacep.com.br/ws/${cep}/json/`);
+  const data = await response.json();
+  console.log(data);
+} catch(error) {
+  console.log(error)
+}

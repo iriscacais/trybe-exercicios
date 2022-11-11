@@ -8,4 +8,4 @@ fetch("https://dummyjson.com/quotes/random")
 fetch("https://api.goprogram.ai/inspiration")
 //   .then(response => console.log(response)); // aqui temos de retorno um objeto do tipo response. Para conseguir acessar as informaçoes retornadas podemos usar o .jason() que também vai retornar uma promise e portanto precisaremos de mais um .then!
 .then(response => response.json())
-  .then(data => console.log(`"${data.quote}" | ${data.author}`));
+  .then(data => console.log(`"${data.quote}" | ${data.author}`)); //data é o objeto esperado como retorno da API. Conseguimos acessas as propriedades quote e author diretamente dele.
